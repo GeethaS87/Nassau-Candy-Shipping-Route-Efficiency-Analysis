@@ -5,7 +5,7 @@ Exploratory data analysis and interactive Streamlit dashboard for factory-to-cus
 
 📊 Project Presentation: Nassau Candy Route Efficiency Analysis — Methodology & Findings
 
-🚀 Live Dashboard: [ADD STREAMLIT APP URL]
+🚀 Live Dashboard: ncd-shipping-route-efficiency-dashboard.streamlit.app
 
 Table of Contents
 Project Overview
@@ -194,7 +194,7 @@ Recommendations
 Live Demo
 Open in Streamlit
 
-Visit: [ADD STREAMLIT APP URL]
+Visit: https://ncd-shipping-route-efficiency-dashboard.streamlit.app/
 
 Presentation
 📊 The project methodology, analytical approach, and key findings are documented in the accompanying PowerPoint presentation:
